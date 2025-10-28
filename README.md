@@ -208,19 +208,10 @@ The application includes comprehensive validation and error handling:
 - Transaction integrity checks
 - Balance verification before withdrawals
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 Future Enhancements
 
-- [ ] Add customer management (separate Customer entity)
+- [ ] Add customer management 
 - [ ] Implement interest calculation for savings accounts
 - [ ] Add transaction history with pagination
 - [ ] Export statements to PDF/CSV
@@ -229,15 +220,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Add scheduled/recurring transactions
 - [ ] Multi-currency support
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
